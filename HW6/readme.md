@@ -1,4 +1,4 @@
-[视频链接](https://v.youku.com/v_show/id_XNDM3MDMxMjAzNg==.html?spm=a2h3j.8428770.3416059.1&qq-pf-to=pcqq.c2c)
+[视频链接](https://v.youku.com/v_show/id_XNDQwMzU5Njc1Mg==.html?spm=a2h3j.8428770.3416059.1)
 
 1.要求，首先 添加接口类IActionManager，用于链接场记和运动管理器，判断飞碟的回收。 
 
